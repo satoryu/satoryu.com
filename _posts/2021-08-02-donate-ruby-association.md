@@ -25,7 +25,7 @@ tags:
 
 まず、下記の個人寄付のページにある、「寄付をする」リンクからフォームに必要事項を入力します。
 
-- [個人寄付](https://www.ruby.or.jp/ja/sponsors/donation/)
+{% linkpreview "https://www.ruby.or.jp/ja/sponsors/donation/" %}
 
 その後、フォームに入力したメールアドレス宛に振込先の銀行口座の情報が送られてきます。
 そこに寄付したい金額を振り込むと完了です。
@@ -41,7 +41,7 @@ tags:
 Web芳名録は、年度ごとのページに名前と個人サイト等のリンクを掲載してもらえます。
 ちゃんと寄付した証拠として利用できます。
 
-- [2021年度　Ruby Association Supporters](https://www.ruby.or.jp/ja/sponsors/donation/donor/2021)
+{% linkpreview "https://www.ruby.or.jp/ja/sponsors/donation/donor/2021" %}
 
 寄付金の振込が確認された後、メールにてロゴのイメージファイルをメールで送ってもらえます。
 このページの上部に掲載しているものがそれです。
