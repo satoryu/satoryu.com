@@ -14,7 +14,7 @@ header:
 
 ## :man: About Tatsuya Sato
 
-{% assign about_page = site.pages | find: "title", "自己紹介" | first %}
+{% assign about_page = site.pages | where: "title", "自己紹介" | first %}
 {{ about_page.excerpt | markdownify }}
 
 [Read More...]({{ about_page.url }})
