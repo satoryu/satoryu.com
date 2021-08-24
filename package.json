@@ -1,0 +1,24 @@
+{
+  "name": "satoryu.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "swa start http://localhost:4000 --run 'bundle exec jekyll serve'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satoryu/satoryu.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satoryu/satoryu.com/issues"
+  },
+  "homepage": "https://github.com/satoryu/satoryu.com#readme",
+  "devDependencies": {
+    "@azure/static-web-apps-cli": "^0.7.1"
+  }
+}
