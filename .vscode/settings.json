@@ -2,7 +2,7 @@
     "liveServer.settings.multiRootWorkspaceName": "satoryu.com",
     "azureFunctions.deploySubpath": "api",
     "azureFunctions.postDeployTask": "npm install (functions)",
-    "azureFunctions.projectLanguage": "TypeScript",
+    "azureFunctions.projectLanguage": "JavaScript",
     "azureFunctions.projectRuntime": "~2",
     "debug.internalConsoleOptions": "neverOpen",
     "azureFunctions.preDeployTask": "npm prune (functions)"

@@ -9,7 +9,7 @@ header:
   overlay_filter: rgba(35, 35, 35, 0.2)
   actions:
     - label: お問い合わせ
-      url: https://form.run/@satoryu--1611193271
+      url: "#お問い合わせフォーム"
 ---
 
 {% capture notice-message %}
@@ -64,5 +64,6 @@ header:
 - 契約書、NDA
 - 報酬の金額および支払い方法の決定
 
-[お問い合わせはこちらから](https://form.run/@satoryu--1611193271){: .btn .btn--success .btn--x-large}
-{: .text-center }
+## お問い合わせフォーム
+
+{% include inquiry_form.html %}

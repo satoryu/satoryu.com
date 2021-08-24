@@ -6,15 +6,14 @@
       "direction": "in",
       "name": "req",
       "methods": [
+        "get",
         "post"
-      ],
-      "route": "inquiries"
+      ]
     },
     {
       "type": "http",
       "direction": "out",
       "name": "res"
     }
-  ],
-  "scriptFile": "../dist/PostInquiry/index.js"
+  ]
 }

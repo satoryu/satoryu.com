@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "swa start http://localhost:4000 --run 'bundle exec jekyll serve'",
+    "dev": "swa start _site --run 'bundle exec jekyll build -w' --api ./api",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
