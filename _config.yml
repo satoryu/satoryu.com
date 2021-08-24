@@ -96,6 +96,12 @@ minimal_mistakes_skin: dirt
 include:
   - _pages
 
+exclude:
+  - api/
+  - node_modules/
+  - Gemfile*
+  - package*.json
+
 defaults:
   - scope:
       path: ""
