@@ -37,3 +37,12 @@ div.linkpreview .preview-body .preview-title {
 div.linkpreview .preview-body .preview-content {
   font-size: 12px;
 }
+
+
+form#inquiry-form input,
+form#inquiry-form textarea {
+  border-radius: 0.2rem;
+  border-style: solid;
+  border-color: lightgrey;
+  border-width: 1px;
+}
