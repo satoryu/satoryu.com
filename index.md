@@ -8,9 +8,10 @@ related: false
 classes:
   - wide
 header:
-  image: /assets/img/top_banner.jpg
   teaser: /assets/img/top_banner.jpg
 ---
+
+![近影](/assets/img/top_banner.jpg)
 
 ## :man: About Tatsuya Sato
 
