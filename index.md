@@ -47,6 +47,7 @@ header:
 個人での仕事に関する情報はこちらをご覧ください。
 
 {% for post in site.categories.news limit: 5 %}
+
 - [{{ post.date | date: '%Y/%m/%d' }} - {{ post.title }}]({{ post.url }})
 {% endfor %}
 
@@ -55,5 +56,5 @@ header:
 お問い合わせは下記のフォームからお願いいたします。
 {: .text-center}
 
-[お問い合わせフォーム](https://form.run/@satoryu--1611193271){: .btn .btn--success .btn--x-large}
+[お問い合わせフォーム](/contact){: .btn .btn--success .btn--x-large}
 {: .text-center}
