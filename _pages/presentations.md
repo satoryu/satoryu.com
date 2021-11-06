@@ -11,6 +11,16 @@ header:
 toc: true
 ---
 
+## [2021/11/04 Scrum Fest Sapporo 2021](https://www.scrumfestsapporo.org/)
+
+### 講演資料
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/46568e5408214ef9be4cd4269c8d7a56" title="ふらっと立ち寄れる廊下のある風景 - フラットでオープンネスがもたらす魅力 / The Corridor" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 420px;" data-ratio="1.3333333333333333"></iframe>
+
+### プロポーザル
+
+- [SCRUM FEST SAPPORO 2021 - ふらっと立ち寄れる廊下のある風景 -- フラットでオープンネスがもたらす魅力 - ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-sapporo-2021/proposal/16034/-)
+
 ## [2021/06/26 Scrum Fest Osaka 2021](https://www.scrumosaka.org/)
 
 ### 講演資料
