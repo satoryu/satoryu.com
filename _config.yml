@@ -113,6 +113,11 @@ defaults:
       comments: false
       share: true
       related: true
+      header:
+        teaser: /assets/img/james-harrison-vpOeXr5wmR4-unsplash.jpeg
+        overlay_image: /assets/img/james-harrison-vpOeXr5wmR4-unsplash.jpeg
+        overlay_filter: 0.7
+        caption: Photo by [James Harrison](https://unsplash.com/@jstrippa?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/programming?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   - scope:
       path: ""
       type: pages
