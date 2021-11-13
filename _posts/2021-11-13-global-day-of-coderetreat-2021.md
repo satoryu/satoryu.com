@@ -1,5 +1,5 @@
 ---
-title: Global Day of Coderetreat 2021 in Shinjuku
+title: "Global Day of Coderetreat 2021 in Shinjuku に参加してきた #coderetreat #gdcr2021"
 excerpt: |
   11月13日に新宿で開催されたGlobal Day of Coderetreat in Shinjukuに参加してきました。
   The Game of Life をペアプロで開発するというセッションをひたすら繰り返して、テストの書き方や設計について楽しく学ぶことができる良いイベントでした。
