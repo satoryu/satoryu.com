@@ -1,6 +1,11 @@
 ---
 title: "DENSO Meetup Yokohama #1 に行ってきた。"
 category: blog
+excerpt: |
+  自動車業界の中でも有名なデンソーさんが、新横浜に独立した内製の開発組織を作っていて、その部署とクリエーションラインさんの共催イベントの第一回目に行ってきました。
+header:
+  teaser: https://cdn-ak.f.st-hatena.com/images/fotolife/s/satoryu/20190124/20190124101419.jpg
+  overlay_image: https://cdn-ak.f.st-hatena.com/images/fotolife/s/satoryu/20190124/20190124101419.jpg
 tags: [イベントレポート,Ruby,TDD,デンソー]
 ---
 <p><span itemscope itemtype="http://schema.org/Photograph"><a href="http://f.hatena.ne.jp/satoryu/20190124101419" class="hatena-fotolife" itemprop="url"><img src="https://cdn-ak.f.st-hatena.com/images/fotolife/s/satoryu/20190124/20190124101419.jpg" alt="f:id:satoryu:20190124101419j:image" title="f:id:satoryu:20190124101419j:image" class="hatena-fotolife" itemprop="image"></a></span></p>
