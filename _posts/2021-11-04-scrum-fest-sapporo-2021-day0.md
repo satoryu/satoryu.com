@@ -6,6 +6,7 @@ header:
   teaser: /assets/img/20211104/scrumfestsapporo2021.png
   overlay_image: /assets/img/20211104/scrumfestsapporo2021.png
   overlay_filter: 0.5
+category: blog
 tags:
   - スクラム
   - アジャイル開発

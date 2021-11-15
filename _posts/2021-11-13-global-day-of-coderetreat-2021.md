@@ -4,6 +4,7 @@ excerpt: |
   11月13日に新宿で開催されたGlobal Day of Coderetreat in Shinjukuに参加してきました。
   The Game of Life をペアプロで開発するというセッションをひたすら繰り返して、テストの書き方や設計について楽しく学ぶことができる良いイベントでした。
 toc: true
+category: blog
 tags:
   - XP
   - TDD
