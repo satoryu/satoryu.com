@@ -7,6 +7,7 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
+    "@notionhq/client": "^0.4.6",
     "@slack/webhook": "^6.0.0"
   },
   "devDependencies": {}
