@@ -4,9 +4,10 @@ date: 2022-01-07
 excerpt: |
   毎年恒例のスクラムのカンファレンスであるRegional Scrum Gathering Tokyo 2022にボランティアスタッフとして参加してきました。
 header:
-  teaser: /assets/img/2021-12-31-review-2021.jpeg
-  og_image: /assets/img/2021-12-31-review-2021.jpeg
-  overlay_image: /assets/img/2021-12-31-review-2021.jpeg
+  teaser: /assets/img/2022-01-07-rsgt2022.jpeg
+  og_image: /assets/img/2022-01-07-rsgt2022.jpeg
+  overlay_image: /assets/img/2022-01-07-rsgt2022.jpeg
+  caption: 会場となった御茶ノ水ソラシティ
 categories:
   - blog
 tags:
