@@ -8,7 +8,7 @@ header:
   overlay_filter: rgba(35, 35, 35, 0.2)
   actions:
     - label: お問い合わせ
-      url: "#お問い合わせフォーム"
+      url: "/business/#お問い合わせフォーム"
 toc: true
 classes:
   - wide
