@@ -32,6 +32,13 @@
         jsonData[element.name] = element.value;
       })
 
+      // Insert given coupon code
+      const params = new URLSearchParams(window.location.search)
+      const couponCode = params.get('coupon')
+      if (couponCode && couponCode != '') {
+        jsonData['クーポンコード'] = couponCode
+      }
+
       $.ajax({
         url: '/api/PostInquiry',
         type: 'POST',
