@@ -33,6 +33,17 @@ exports.addInquiry = async function(parameters) {
     }
   )
 
+  const couponCode = parameters['クーポンコード']
+  if (couponCode) {
+    properties['クーポンコード'] = {
+      rich_text: [
+        {
+          text: { content: couponCode }
+        }
+      ]
+    }
+  }
+
   console.log(properties)
 
   await client.pages.create({
