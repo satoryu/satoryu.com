@@ -11,6 +11,16 @@ header:
 toc: true
 ---
 
+## [2022/06/18 Scrum Fest Osaka 2022](https://www.scrumosaka.org/)
+
+### 講演資料
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/42c5243f0b1f4018aa3b5f1c8e26a54b" title="音のような言葉 〜ちゃちゃっとチャットで楽しむちょっとしたコツ〜 / words like sounds" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 315px;" data-ratio="1.7777777777777777"></iframe>
+
+### プロポーザル
+
+- [Scrum Fest Osaka 2022 - 音のような言葉 〜ちゃちゃっとチャットで楽しむちょっとしたコツ〜 | ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-osaka-2022/proposal/16670)
+
 ## [2021/11/04 Scrum Fest Sapporo 2021](https://www.scrumfestsapporo.org/)
 
 ### 講演資料
