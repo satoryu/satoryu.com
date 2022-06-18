@@ -19,7 +19,7 @@ toc: true
 
 ### プロポーザル
 
-- [Scrum Fest Osaka 2022 - 音のような言葉 〜ちゃちゃっとチャットで楽しむちょっとしたコツ〜 | ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-osaka-2022/proposal/16670)
+- [Scrum Fest Osaka 2022 - 音のような言葉 〜ちゃちゃっとチャットで楽しむちょっとしたコツ〜 ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-osaka-2022/proposal/16670)
 
 ## [2021/11/04 Scrum Fest Sapporo 2021](https://www.scrumfestsapporo.org/)
 
