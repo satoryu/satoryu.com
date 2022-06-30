@@ -21,6 +21,7 @@ email: satoryu.1981@gmail.com
 logo: assets/img/logo.png
 google_analytics: UA-10079057-16
 repository: satoryu/satoryu.com
+timezone: Asia/Tokyo
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.satoryu.com" # the base hostname & protocol for your site
