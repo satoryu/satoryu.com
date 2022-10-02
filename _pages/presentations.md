@@ -11,6 +11,16 @@ header:
 toc: true
 ---
 
+## [2022/10/01/ XP祭り2022](https://xpjug.com/xp2022/)
+
+### 講演資料
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/82bc9ab16849434d8551406145dc359d" title="これが私のXP 〜 eXtreme Punning 〜 変化をウケろ / this is my XP" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 315px;" data-ratio="1.7777777777777777"></iframe>
+
+### プロポーザル
+
+- [XP祭り2022 - これが私のXP 〜 eXtreme Punning 〜 変化をウケろ  ConfEngine - Conference Platform](https://confengine.com/conferences/xp2022/proposal/16894/xp-extreme-punning)
+
 ## [2022/06/18 Scrum Fest Osaka 2022](https://www.scrumosaka.org/)
 
 ### 講演資料
