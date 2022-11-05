@@ -11,6 +11,16 @@ header:
 toc: true
 ---
 
+## [2022/11/04 Scrum Fest Sapporo 2022](https://www.scrumfestsapporo.org/)
+
+### 講演資料
+
+<iframe class="speakerdeck-iframe" frameborder="0" src="https://speakerdeck.com/player/5fd5366165524a5d99cc0097eac38b89" title="受託開発受注のためのちょっとしたコツ 〜「何でもかんでもやります」じゃなく、まずはデモ〜 / demonstation first" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="border: 0px; background: padding-box padding-box rgba(0, 0, 0, 0.1); margin: 0px; padding: 0px; border-radius: 6px; box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 40px; width: 560px; height: 315px;" data-ratio="1.7777777777777777"></iframe>
+
+### プロポーザル
+
+- [SCRUM FEST SAPPORO 2022 - 受託開発受注のためのちょっとしたコツ 〜「何でもかんでもやります」じゃなく、まずはデモ〜  ConfEngine - Conference Platform](https://confengine.com/conferences/scrum-fest-sapporo-2022/proposal/17510)
+
 ## [2022/10/01/ XP祭り2022](https://xpjug.com/xp2022/)
 
 ### 講演資料
