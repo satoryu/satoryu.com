@@ -10,6 +10,7 @@ category: blog
 tags:
   - スクラム
   - アジャイル開発
+  - scrumsapporo
   - イベントレポート
 ---
 
