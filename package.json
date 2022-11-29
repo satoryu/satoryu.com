@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/satoryu/satoryu.com#readme",
   "devDependencies": {
-    "@azure/static-web-apps-cli": "^0.7.1"
+    "@azure/static-web-apps-cli": "^1.0.0"
   }
 }
