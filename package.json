@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "swa start _site --run 'bundle exec jekyll build -w' --api ./api",
-    "build": "bundle install && bundle exec jekyll build",
+    "dev": "swa start",
+    "build": "swa build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
