@@ -2,9 +2,12 @@
   "name": "satoryu.com",
   "version": "1.0.0",
   "description": "",
+  "engines": {
+    "node": ">= 16.0.0"
+  },
   "main": "index.js",
   "scripts": {
-    "dev": "swa start _site --run 'bundle exec jekyll build -w' --api ./api",
+    "dev": "swa start _site --run 'bundle exec jekyll build -w' --api-location ./api",
     "build": "bundle install && bundle exec jekyll build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -20,6 +23,6 @@
   },
   "homepage": "https://github.com/satoryu/satoryu.com#readme",
   "devDependencies": {
-    "@azure/static-web-apps-cli": "^0.7.1"
+    "@azure/static-web-apps-cli": "^1.0"
   }
 }
